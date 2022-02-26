@@ -77,10 +77,11 @@ WSGI_APPLICATION = 'HI_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'HI_general',
-        'USER': 'postgres',
-        'PASSWORD': '102330Wq!@#',
-        'HOST': 'localhost'
+        'NAME': 'omrxmwhc',
+        'USER': 'omrxmwhc',
+        'PASSWORD': '9POpob3lvf22bVcCQ1kIPDmAdRwPzWVw',
+        'HOST': 'jelani.db.elephantsql.com',
+        'PORT': '5432'
     }
 }
 
