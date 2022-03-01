@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class HiAppConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'HI_app'
+    name = 'sb_app'
